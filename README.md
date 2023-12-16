@@ -1,9 +1,4 @@
-# Deep_Reinforcement_Learning<br>
+# Deep_Reinforcement_Learning
 
-James Chapman <br>
-CIS 730 Artificial Intelligence– Term Project<br>
-Kansas State University<br>
-jachapman@ksu.edu<br>
-<br><br>
-Project Code<br>
-https://github.com/JamesChapmanNV/Deep_Reinforcement_Learning
+… in progress <br>
+
