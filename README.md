@@ -1,6 +1,6 @@
 # Deep Q-Learning & Experience Replay Variants for Reinforcement Learning Tasks
 
-Implementations of Q-learning in Farama’s Gymnasium environments.
+Implementations of Q-learning [1-4] in Farama’s Gymnasium environments.
 
 Deep Q-Networks (DQN) <br>
 Double DQN <br>
