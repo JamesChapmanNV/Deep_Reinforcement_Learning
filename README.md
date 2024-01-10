@@ -1,6 +1,6 @@
-# Supervised Regression using SVR and Neural Networks for Early Prediction of End-of-Life in Lithium-ion Batteries
+# Deep Q-Learning & Experience Replay Variants for Reinforcement Learning Tasks
 
-Early prediction of end-of-life in lithium-ion batteries is a critical factor in managing performance and preventing malfunctions. This work studies various machine learning methods using the lithium-ion battery lifecycle dataset provided by Severson et al. [1].
+Implementations of Q-learning in Farama’s Gymnasium environments.
 
 Deep Q-Networks (DQN) <br>
 Double DQN <br>
@@ -17,8 +17,3 @@ FARAMA’S GYMNASIUM <br>
 [3] Schaul, T., Quan, J., Antonoglou, I. & Silver, D. (2015). Prioritized Experience Replay Published at ICLR 2016 (https://www.doi.org/10.48550/arXiv.1511.05952)
 
 [4] Ziyu Wang, Tom Schaul, Matteo Hessel, Hado Van Hasselt, Marc Lanctot, and Nando De Freitas. 2016. Dueling network architectures for deep reinforcement learning. In Proceedings of the 33rd International Conference on International Conference on Machine Learning - Volume 48 (ICML'16). JMLR.org, 1995–2003.(https://www.doi.org/10.48550/arXiv.1511.06581)
-
-[5] Torres, Jordi. “Deep Reinforcement Learning Explained.” GitHub, github.com/jorditorresBCN/Deep-Reinforcement-Learning-Explained/tree/master. Accessed 15 Dec. 2023.
-
-
-
